@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="10c2425c-1ed0-4d63-a7a8-2ae4d9961845" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +36,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -46,6 +48,10 @@
       <option name="presentableId" value="Default" />
       <updated>1603218011048</updated>
       <workItem from="1603218012520" duration="8790000" />
+      <workItem from="1604783343760" duration="277000" />
+      <workItem from="1604784573545" duration="6000" />
+      <workItem from="1604784615705" duration="56000" />
+      <workItem from="1605661100881" duration="5170000" />
     </task>
     <servers />
   </component>
@@ -68,6 +74,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -76,13 +83,18 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604784662185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604784662185" />
     <state x="510" y="318" width="417" height="165" key="Github.CreateGistDialog" timestamp="1603233481665">
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="510" y="318" width="417" height="165" key="Github.CreateGistDialog/72.27.1294.741@72.27.1294.741" timestamp="1603233481665" />
-    <state x="208" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1603233783050">
-      <screen x="72" y="27" width="1294" height="741" />
+    <state x="161" y="4" width="1022" height="737" key="SettingsEditor" timestamp="1604783623704">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="161" y="4" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604783623704" />
     <state x="208" y="31" width="1022" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1603233783050" />
     <state x="314" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603233877491">
       <screen x="72" y="27" width="1294" height="741" />
@@ -96,9 +108,10 @@
       <screen x="72" y="27" width="1294" height="741" />
     </state>
     <state x="523" y="309" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog/72.27.1294.741@72.27.1294.741" timestamp="1603233327592" />
-    <state x="656" y="157" key="run.anything.popup" timestamp="1603234253744">
-      <screen x="72" y="27" width="1294" height="741" />
+    <state x="693" y="145" key="run.anything.popup" timestamp="1605663246555">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="693" y="145" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1605663246555" />
     <state x="656" y="157" key="run.anything.popup/72.27.1294.741@72.27.1294.741" timestamp="1603234253744" />
   </component>
 </project>
